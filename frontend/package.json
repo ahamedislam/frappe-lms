@@ -17,7 +17,7 @@
     "@editorjs/checklist": "^1.6.0",
     "@editorjs/code": "^2.9.0",
     "@editorjs/editorjs": "^2.29.0",
-    "@editorjs/embed": "^2.7.0",
+    "@editorjs/embed": "^2.7.7",
     "@editorjs/header": "^2.8.1",
     "@editorjs/inline-code": "^1.5.0",
     "@editorjs/nested-list": "^1.4.2",
